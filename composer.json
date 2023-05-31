@@ -1,5 +1,5 @@
 {
-    "name": "codersstudio/sms-ru",
+    "name": "kustovsky/sms-ru",
     "description": "Package for send sms via sms.ru. Based on official PHP class http://sms.ru/php.",
     "type": "package",
     "license": "MIT",
